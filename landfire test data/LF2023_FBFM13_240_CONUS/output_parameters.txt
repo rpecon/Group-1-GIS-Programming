@@ -1,0 +1,78 @@
+Raster Download Information
+
+Number of Columns: 4755
+Number of Rows: 3611
+Resolution in x direction: 30.0 Meter
+Resolution in y direction: -30.0 Meter
+
+Coordinate system ID Reprojected: EPSG:26911
+Top edge Reprojected: 3707392.3749 Meter
+Bottom edge Reprojected: 3599074.2443 Meter
+Left edge Reprojected: 443129.8324 Meter
+Right edge Reprojected: 585768.6894 Meter
+
+Coordinate system ID Native: 5070
+Top edge Native: 1383341.4244 Meter
+Bottom edge Native: 1258468.4811 Meter
+Left edge Native: -1981342.5308 Meter
+Right edge Native: -1841460.6042 Meter
+
+Coordinate system ID WGS84: 4326
+Top edge WGS84: 33.5050 Degree
+Bottom edge WGS84: 32.5288 Degree
+Left edge WGS84: -117.6111 Degree
+Right edge WGS84: -116.0810 Degree
+
+Download Format: GeoTiff_with_attribs
+Raster Download Information
+
+Number of Columns: 4755
+Number of Rows: 3611
+Resolution in x direction: 30.0 Meter
+Resolution in y direction: -30.0 Meter
+
+Coordinate system ID Reprojected: EPSG:26911
+Top edge Reprojected: 3707392.3749 Meter
+Bottom edge Reprojected: 3599074.2443 Meter
+Left edge Reprojected: 443129.8324 Meter
+Right edge Reprojected: 585768.6894 Meter
+
+Coordinate system ID Native: 5070
+Top edge Native: 1383341.4244 Meter
+Bottom edge Native: 1258468.4811 Meter
+Left edge Native: -1981342.5308 Meter
+Right edge Native: -1841460.6042 Meter
+
+Coordinate system ID WGS84: 4326
+Top edge WGS84: 33.5050 Degree
+Bottom edge WGS84: 32.5288 Degree
+Left edge WGS84: -117.6111 Degree
+Right edge WGS84: -116.0810 Degree
+
+Download Format: GeoTiff_with_attribs
+Raster Download Information
+
+Number of Columns: 4755
+Number of Rows: 3611
+Resolution in x direction: 30.0 Meter
+Resolution in y direction: -30.0 Meter
+
+Coordinate system ID Reprojected: EPSG:26911
+Top edge Reprojected: 3707392.3749 Meter
+Bottom edge Reprojected: 3599074.2443 Meter
+Left edge Reprojected: 443129.8324 Meter
+Right edge Reprojected: 585768.6894 Meter
+
+Coordinate system ID Native: 5070
+Top edge Native: 1383341.4244 Meter
+Bottom edge Native: 1258468.4811 Meter
+Left edge Native: -1981342.5308 Meter
+Right edge Native: -1841460.6042 Meter
+
+Coordinate system ID WGS84: 4326
+Top edge WGS84: 33.5050 Degree
+Bottom edge WGS84: 32.5288 Degree
+Left edge WGS84: -117.6111 Degree
+Right edge WGS84: -116.0810 Degree
+
+Download Format: GeoTiff_with_attribs
